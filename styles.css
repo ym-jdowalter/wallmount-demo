@@ -27,12 +27,12 @@
 	max-width: 84px;
 	min-width: 32px;
 	height: 32px;
+	margin-right: 6px;
 }
 
 .title {
 	flex: 1;
 	margin: 0;
-	margin-left: 6px;
 	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 12px;
@@ -187,7 +187,6 @@
 
 .format--300x600 .title {
 	font-size: 16px;
-	margin: 0;
 	padding: 2px 4px;
 	max-height: none;
 	flex: 0 1 auto;
@@ -222,7 +221,6 @@
 .format--970x250 .title {
 	font-size: 16px;
 	padding: 8px;
-	margin: 0;
 	flex: 0 1 auto;
 	max-height: none;
 }
